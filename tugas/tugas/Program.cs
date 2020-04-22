@@ -12,7 +12,7 @@ namespace tugas
         }
         static void keterangan2(int kelompok, int shift)
         {
-            Console.WriteLine("Kelpmpok " + kelompok, " sift ke-" + shift);
+            Console.WriteLine("Kelpmpok " + kelompok +" sift ke-" + shift);
         }
       
         static void Main(string[] args)
@@ -35,7 +35,7 @@ namespace tugas
                 Console.Write("Pilih hari :");
                a = Console.ReadLine();
                 Console.WriteLine("");
-                Console.WriteLine("=======================================================");
+                Console.WriteLine("============================================");
                 int.TryParse(a, out b);
                 switch (b)
                 {
@@ -54,12 +54,16 @@ namespace tugas
                     case (5):
                         hr.jumat();
                         break;
+                    default:
+                        Console.WriteLine("Inputan salah");
+                        break;
+
                 }
-                Console.WriteLine("=======================================================");
+                Console.WriteLine("============================================");
                 Console.WriteLine("");
-                Console.WriteLine("Apakah Ingin melihat jadwal hari lain? (y )");
+                Console.WriteLine("Apakah Ingin melihat jadwal hari lain? (y)");
                 a = Console.ReadLine();
-                Console.WriteLine("???????????????????????????????????????????????????????");
+                Console.WriteLine("____________________________________________");
                 Console.WriteLine("");
 
 
@@ -68,7 +72,7 @@ namespace tugas
             keterangan("Gunawan Prasetya", "21120119120025");
             keterangan("Hana Abdilah", "21120119120025");
             keterangan2(41, 2);
-            Console.WriteLine(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
+            Console.WriteLine(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
             Console.ReadKey();
         }
     }
