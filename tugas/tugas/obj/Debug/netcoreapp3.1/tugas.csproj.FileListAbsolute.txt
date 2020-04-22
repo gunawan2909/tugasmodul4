@@ -1,0 +1,13 @@
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\bin\Debug\netcoreapp3.1\tugas.exe
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\bin\Debug\netcoreapp3.1\tugas.deps.json
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\bin\Debug\netcoreapp3.1\tugas.runtimeconfig.json
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\bin\Debug\netcoreapp3.1\tugas.runtimeconfig.dev.json
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\bin\Debug\netcoreapp3.1\tugas.dll
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\bin\Debug\netcoreapp3.1\tugas.pdb
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\obj\Debug\netcoreapp3.1\tugas.csprojAssemblyReference.cache
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\obj\Debug\netcoreapp3.1\tugas.csproj.CoreCompileInputs.cache
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\obj\Debug\netcoreapp3.1\tugas.AssemblyInfoInputs.cache
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\obj\Debug\netcoreapp3.1\tugas.AssemblyInfo.cs
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\obj\Debug\netcoreapp3.1\tugas.dll
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\obj\Debug\netcoreapp3.1\tugas.pdb
+D:\UNDIP\semester 2\praktikum dasar kompuer pemprogaman\modul 4\pemprogman\tugas\tugas\tugas\obj\Debug\netcoreapp3.1\tugas.genruntimeconfig.cache
